@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary">#1E293B</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="accent">#3B82F6</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="card_bg_translucent">#B314181E</color>
+    <color name="card_border">#33FFFFFF</color>
+    <color name="control_bar_bg">#99000000</color>
+    <color name="shutter_inner">#FFFFFF</color>
+    <color name="shutter_ring">#80FFFFFF</color>
+</resources>

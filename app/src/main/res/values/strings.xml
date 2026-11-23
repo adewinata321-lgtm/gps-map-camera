@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GPS Map Camera</string>
+    <string name="default_tag">LocSnap - GPS Timestamp Camera</string>
+    <string name="locating">Mencari lokasi GPS…</string>
+    <string name="address_loading">Mengambil data alamat…</string>
+    <string name="permission_required">Izin Kamera dan Lokasi diperlukan untuk menggunakan aplikasi ini.</string>
+    <string name="grant_permission">Izinkan Akses</string>
+    <string name="photo_saved">Foto berhasil disimpan ke Galeri!</string>
+    <string name="photo_saving">Menyimpan &amp; menempelkan stempel GPS…</string>
+    <string name="gallery_title">Galeri GPS Photo</string>
+    <string name="no_photos">Belum ada foto yang diambil.</string>
+    <string name="settings_title">Pengaturan GPS Photo</string>
+    <string name="map_type">Tipe Peta</string>
+    <string name="map_satellite">Satelit (Seperti Foto Contoh)</string>
+    <string name="map_street">Peta Jalan (Roadmap)</string>
+    <string name="map_none">Tanpa Peta</string>
+    <string name="custom_watermark">Label / Watermark</string>
+    <string name="save">Simpan</string>
+    <string name="share">Bagikan</string>
+    <string name="delete">Hapus</string>
+    <string name="confirm_delete">Hapus foto ini?</string>
+</resources>
